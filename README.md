@@ -1,4 +1,4 @@
-**# Case Study: AI-Powered UX Personalization (Netflix-Style Recommendation System)**
+# **Case Study: AI-Powered UX Personalization (Netflix-Style Recommendation System)**
 
 ## **🚀 Problem Statement**
 Streaming platforms often overwhelm users with **content overload**, making it difficult to decide what to watch. This leads to **decision fatigue** and lower user engagement.
@@ -62,12 +62,6 @@ An **AI-driven recommendation UI** that dynamically **reshuffles content, adjust
 
 ---
 
-## **🚀 Next Steps:**
-✅ Build **animated UI interactions** in Framer/Webflow.  
-✅ Conduct **usability testing** with real users & measure AI impact.  
-✅ Publish on **Dribbble, Behance, LinkedIn** for visibility.  
 
----
-
-### **🎨 Want to see the full interactive prototype?** [Include a link to your Figma project here]
+### **🎨 Want to see the full interactive prototype?**
 
